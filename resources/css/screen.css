@@ -1,18 +1,3 @@
-/* --------------------------------------------------------------
-  
-   Boilerplate Screen Styles
-   * Version:   0.5 (2007-11-19)
-   
--------------------------------------------------------------- */
-
-@import "lib/reset.css";
-@import "lib/typography.css";
-@import "lib/forms.css";
-@import "lib/plugins/tabs.css";
-
-
-/* Page
--------------------------------------------------------------- */
 #home_url {
     left: 30px !important;
     position: fixed;
